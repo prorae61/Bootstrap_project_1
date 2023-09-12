@@ -1,0 +1,18 @@
+.custom-bg{
+    background-image: linear-gradient(#0d6efd,skyblue);
+}
+.carousel-item img{
+    height: 50vh;
+}
+.card-group img{
+    height: 20vh;
+}
+
+.bg-color{
+    background-color: rgb(230, 230, 247);
+}
+/* .feature col i{
+    
+    height: 20px;
+    width:;
+} */
